@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: #333;
+  text-align: center;
+}
+
+img{
+  width: 550px;
+  height: 550px;
+}

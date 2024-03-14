@@ -1,0 +1,16 @@
+.blog-img {
+  width: 800px;
+  height: 600px;
+}
+
+p {
+  padding: 0px 50px 0px 50px;
+}
+
+strong {
+  padding: 0 0px 0px 50px;
+}
+
+.blod-detail{
+  margin-top: 25px;
+}
